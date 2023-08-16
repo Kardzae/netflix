@@ -1,1 +1,1 @@
-console.log("Netlix");
+console.log("Netflix");
